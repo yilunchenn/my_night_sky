@@ -9,6 +9,6 @@ This is the night sky I draw:
 
 ![mysky](/draw_my_night_sky/mySky.jpg)
 
-This is the quote after you save the image:
+This is the quote after I saved the image:
 
 ![quote](/draw_my_night_sky/quote.png)
