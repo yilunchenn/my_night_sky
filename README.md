@@ -7,8 +7,5 @@ Website link: https://yilunchenn.github.io/my_night_sky/draw_my_night_sky/
 
 This is the night sky I draw:
 
-![mysky](/draw_my_night_sky/mySky.jpg)
+![mysky](/draw_my_night_sky/sampleDraw.jpg)
 
-This is the quote after I saved the image:
-
-![quote](/draw_my_night_sky/quote.png)
